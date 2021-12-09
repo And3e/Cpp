@@ -1,0 +1,23 @@
+#include <iostream>
+#include <stdlib.h>
+#include <time.h>
+
+using namespace std;
+
+int main(){
+    float a, b, casual;
+
+    srand(time(NULL));
+
+    cout<<"Inserisci il valore reale minimo da generare: ";
+    cin>>a;
+    cout<<"Inserisci il valore reale massimo da generare: ";
+    cin>>b;
+
+    casual=((b-a)*rand())/RAND_MAX+a;
+
+    cout<<"\n\nNumero casuale generato: "<<casual<<endl;
+
+    system("pause");
+    return 0;
+}
