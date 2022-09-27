@@ -1,4 +1,11 @@
-# EUPL-1.2
+# Labyrinth - Labirinto
+
+```
+Programma creato a scopo didattico ed educativo.
+Programme created for didactic and educational purposes.
+```
+
+## EUPL-1.2
 
 European Union Public Licence
 V. 1.2
@@ -275,7 +282,7 @@ Appendix
 — All other changes or additions to this Appendix require the production of a
   new EUPL version.
   
-# BSD-3-Clause
+## BSD-3-Clause
 
 BSD 3-Clause License
 
@@ -307,7 +314,7 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-# AGPL-3.0
+## AGPL-3.0
 
 Copyright (c) the respective contributors, as shown by the AUTHORS file.
 
