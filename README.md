@@ -2,7 +2,7 @@
 
 🗣️ 🇬🇧
 ### 💻C++ school exercises 💻
-In this repository are the exercises done in the 3rd year of a technical computer school.
+In this repository there are exercises done in the 3rd year of a technical computer school.
 
 🗣️ 🇮🇹
 ### 💻Esercizi scolastici di C++💻
