@@ -9,10 +9,11 @@ In this repository there are exercises done in the 3rd year of a technical compu
 In questa repository sono presenti gli esercizi fatti nel 3° anno di un'istituto tecnico informatico.
 
 ```
-Programma creato a scopo didattico ed educativo.
-Programme created for didactic and educational purposes.
+⚠️ Programmi creati a scopo didattico ed educativo ⚠️
+⚠️ Programmes created for didactic and educational purposes ⚠️
 ```
 
+# 📚 Licenze - Licences 📚
 ## EUPL-1.2
 
 European Union Public Licence
